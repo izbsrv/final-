@@ -21,7 +21,7 @@ The project uses a combination of HTML, CSS, JavaScript, and external APIs to bu
 - **Charting**: Chart.js for data visualization (e.g., charts for events and news data)
 
 
-### Key Sections in the README:
+### Key Sections :
 
 1. **Overview**: Summarizes what the project does and its main features.
 2. **Key Features**: Describes the functionality the project provides.
